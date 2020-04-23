@@ -33,6 +33,8 @@
 
 ## STL을 활용한 스택 구현
 
+FILO : First In Last Out
+
 ### #include<stack>
 
 - `stack<int> st`
@@ -44,6 +46,8 @@
 
 ## STL을 활용한 큐 구현
 
+FIFO : First In First Out
+
 ### #include<queue>
 
 - `queue<int> q`
@@ -51,6 +55,7 @@
 - `q.pop()`
 - `q.size()`
 - `q.front()`
+- `q.back()`
 - `q.empty()`
 
 ## 그외
