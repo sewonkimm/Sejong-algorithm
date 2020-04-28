@@ -4,6 +4,17 @@
 - 숙제 : 문제 풀이 4번
 - 문제 5, 6번 미리 풀어보기
 
+| 문제 |                                    링크                                     |
+| :--: | :-------------------------------------------------------------------------: |
+|  1   |    [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)     |
+|  2   |              [수강신청](https://www.acmicpc.net/problem/13414)              |
+|  3   |              [단어 정렬](https://www.acmicpc.net/problem/1181)              |
+|  4   | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |
+|  5   |        [욱제는 도박쟁이야!!](https://www.acmicpc.net/problem/14655)         |
+|  6   |      [압축](https://programmers.co.kr/learn/courses/30/lessons/17684)       |
+
+---
+
 ### 1. vector
 
 > [vector](https://blockdmask.tistory.com/70)
