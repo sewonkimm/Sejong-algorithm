@@ -4,8 +4,6 @@ DFS, 재귀
 2. 마지막 배열의 원소까지 계산이 끝나면 sum이 target과 같은지 확인한다.
 3. target과 같으면 count+1 해주고 return
 4. DFS 재귀가 모두 끝나면 count 값을 출력
-
-// 통과 x
 */
 
 #include <vector>
@@ -27,7 +25,7 @@ void dfs(vector<int> numbers, int i, int sum, int target)
     }
 
     dfs(numbers, i + 1, sum + numbers[i], target);
-    dfs(numbers, i - 1, sum - numbers[i], target);
+    dfs(numbers, i + 1, sum - numbers[i], target);
 }
 
 int solution(vector<int> numbers, int target)
